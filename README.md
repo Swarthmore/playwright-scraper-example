@@ -10,4 +10,4 @@ playwright install
 pytst src/scrape.py
 ```
 
-See also: https://playwright.dev/python/docs/intro
+See also: https://playwright.dev/python/docs/intro
